@@ -4,3 +4,4 @@ for i in number:
     total_sum+= i
 print(total_sum)
 print(total_sum)
+print(total_sum)
